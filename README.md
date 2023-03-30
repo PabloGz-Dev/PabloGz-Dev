@@ -1,3 +1,5 @@
+<img src="https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif" align="center" />
+
 ## Hola 👋, Soy PabloGz!  
   
 
@@ -54,31 +56,6 @@ Soy nuevo en la programación, voy aprendiendo cada día algo nuevo.
 
 <br/>  
 
-
-## Github Estadísticas  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PabloGz-Dev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloGz-Dev&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=PabloGz-Dev&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
 
 ----
 
