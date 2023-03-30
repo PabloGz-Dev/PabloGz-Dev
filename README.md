@@ -19,6 +19,8 @@ Soy nuevo en la programación, voy aprendiendo cada día algo nuevo.
 
 <table><tr><td valign="top" width="50%">
 
+## Cosas random 
+
 - 🔭 Yo actualmente busco gente para programar.  
   
 
@@ -40,7 +42,7 @@ Soy nuevo en la programación, voy aprendiendo cada día algo nuevo.
 <br/>  
 
 
-## Languages and Tools  
+## Idiomas y Herramientas  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="25" /></a>  
@@ -53,7 +55,7 @@ Soy nuevo en la programación, voy aprendiendo cada día algo nuevo.
 <br/>  
 
 
-## Github Stats  
+## Github Estadísticas  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=PabloGz-Dev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
